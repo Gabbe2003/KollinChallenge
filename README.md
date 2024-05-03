@@ -1,2 +1,3 @@
-Hi! I have now subbmited my challenge at 13:20 
-I didn't have a lot of time to complete it due to school and work, it would be a lot better, some points to consider: The style stil needs to work on, I did it with bootstrap and css. The component could be more cleaner, i wanted to split it up even more but didn't have the time for it. 
+Hey there! I've just submitted my challenge at 13:20. Unfortunately, I was a bit pressed for time between school and work, so there are a few areas I wish I could have improved upon. Firstly, the overall style could use some refinement—I utilized Bootstrap and CSS but feel there's room for enhancement. Additionally, I aimed to further divide the components for better organization, though time constraints hindered that effort.
+
+One significant issue arose at the outset: filtering out corrupted IDs proved trickier than expected, leading to some wasted time due to initial filtering errors. Furthermore, I'm not entirely satisfied with the user experience I implemented. Given more time, I'm confident I could have significantly enhanced these aspects.
