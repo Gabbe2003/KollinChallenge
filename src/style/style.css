@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(75, 128, 196);
+    color: aliceblue;
+    min-height: 100vh;
+}
+
+.user-page-container {
+    position: relative;
+}
+
+.assignment-button {
+    width: 60px;
+    height: 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.assignment-button.selected {
+    border: 1px solid black;
+    transform: scale(1.1);
+}
+
+.answer-option {
+    padding: 1rem;
+}
+
+.answer-option.selected {
+    background-color: rgb(89, 140, 225);
+    border: 2px solid rgb(51, 73, 187);
+}

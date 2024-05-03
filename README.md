@@ -1,0 +1,2 @@
+Hi! I have now subbmited my challenge at 13:20 
+I didn't have a lot of time to complete it due to school and work, it would be a lot better, some points to consider: The style stil needs to work on, I did it with bootstrap and css. The component could be more cleaner, i wanted to split it up even more but didn't have the time for it. 
